@@ -34,18 +34,6 @@ The objectives for this assignment is:
 You can run all the tests by entering the following in your terminal:
 
 ```sh
-$ ./gradlew test
-```
-
-or
-
-```sh
-$ gradlew.bat test
-```
-
-or
-
-```sh
 $ mvn test
 ```
 
