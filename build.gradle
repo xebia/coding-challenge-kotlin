@@ -1,6 +1,8 @@
-apply plugin: "java"
-apply plugin: "eclipse"
-apply plugin: "idea"
+plugins {
+  id "org.jetbrains.kotlin.jvm" version "1.9.22"
+  id "eclipse"
+  id "idea"
+}
 
 repositories {
   mavenCentral()
